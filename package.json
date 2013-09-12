@@ -8,5 +8,11 @@
   "bugs": {
     "url": "http://github.com/gocardless-client/grunt-deploy/issues"
   },
-  "main": "deploy"
+  "main": "deploy",
+  "peerDependencies": {
+    "grunt": "~0.4.1"
+  },
+  "keywords": [
+    "gruntplugin"
+  ]
 }
