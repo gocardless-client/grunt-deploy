@@ -1,0 +1,14 @@
+{
+  "name": "grunt-deploy",
+  "version": "0.1.0",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/gocardless-client/grunt-deploy.git"
+  },
+  "bugs": {
+    "url": "http://github.com/gocardless-client/grunt-deploy/issues"
+  },
+  "engines": {
+    "node": "0.10.0"
+  }
+}
